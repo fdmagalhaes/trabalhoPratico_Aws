@@ -36,29 +36,17 @@ Indicadas para aplicações que irão trabalhar com muitos arquivos armazenados,
 
 | C;         | Android;  |
 |JavaScript; | iOS;
-|Arduino;    |
-|Java;       |
-|Python;     |
-|C++.        |
-
-
-React Native;
-Ionic;
-Flutter.
-JavaScript;
-React JS;
-Angular;
-Vue;
-Next.JS.
-Java;
-Python;
-JavaScript;
-Node.JS;
+|Arduino;    | React Native;
+|Java;       | Ionic;
+|Python;     | Flutter.
+|C++.        | JavaScript;
+|React JS;   | Angular;
+|Vue;        | Next.JS.
+|Java;       | Python;
+|JavaScript; | Node.JS;
 Entre outras.
 
-
-
-Banco de dados relacionais (Amazon RDS)
+## Banco de dados relacionais (Amazon RDS)
 O Amazon RDS (Amazon Relational Databases) é o serviço da AWS que disponibiliza o gerenciamento de base de dados relacionais na plataforma da AWS, focando em escalabilidade e no autogerenciamento. Por meio dele conseguimos automatizar rotinas de administração de banco de dados, provisionamento de hardware e configurações de backup e restore.
 
 Atualmente a AWS conta com esses serviços e mais de 165 é uma das maiores empresas de serviços de cloud do mundo com aproximadamente 50 milhões de páginas hospedadas incluindo de grandes negócios como a netflix, AirBnB 3M entre outros, conhecer mais sobre ela é fundamental para todos no ramo de tecnologia.
