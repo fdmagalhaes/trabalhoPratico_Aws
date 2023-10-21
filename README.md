@@ -45,7 +45,7 @@ Indicadas para aplicações que irão trabalhar com muitos arquivos armazenados,
 |Vue;        | Next.JS.      |
 |Java;       | Python;       |
 |JavaScript; | Node.JS;      |
-Entre outras.
+|       Entre outras.        |
 
 ## Banco de dados relacionais (Amazon RDS)
 O Amazon RDS (Amazon Relational Databases) é o serviço da AWS que disponibiliza o gerenciamento de base de dados relacionais na plataforma da AWS, focando em escalabilidade e no autogerenciamento. Por meio dele conseguimos automatizar rotinas de administração de banco de dados, provisionamento de hardware e configurações de backup e restore.
