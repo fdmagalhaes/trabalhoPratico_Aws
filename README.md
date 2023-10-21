@@ -1,6 +1,7 @@
 # trabalhoPratico_Aws
  #     Amazon Web Service <p align="center">
   <img src="https://github.com/fdmagalhaes/trabalhoPratico_Aws/blob/main/Amazon_Web_Services-Logo.wine.png" alt="Texto alternativo da imagem">
+  width="300">
 </p>
 
 O segmento de negócios de maior sucesso na Amazon e gerou em 2022 quase US$ 23 bilhões em operações lucro, a AWS nasceu para suprir a necessidade de infraestrutura da própria Amazon nos anos 2000 para automatizar diversos processos, foi investido em pesquisa e desenvolvimento a partir disso foi criando diversas soluções para os problemas comuns de infraestrutura. Com isso a Amazon percebeu que a venda de recursos computacionais poderia ser um investimento interessante assim a  Amazon Web Services (AWS) foi criada em 2006, "éramos efetivamente uma pequena startup de tecnologia dentro de uma grande multinacional", disse Ariel Kelman, vice-presidente mundial de marketing.
