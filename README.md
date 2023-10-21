@@ -33,18 +33,18 @@ São as instâncias indicadas para aplicações gráficas, possuindo processador
 Indicadas para aplicações que irão trabalhar com muitos arquivos armazenados, buscando desempenho em operações e I/O (input/output) para conseguir transferir os arquivos para clientes e outras instâncias.
 
 ### Linguagens e Frameworks de Programação
-| Esquerda | Centro |
-|:---------|:------:|
+| Esquerda   | Centro        |
+|------------|---------------|
 | C;         | Android;      |
 |JavaScript; | iOS;          |
 |Arduino;    | React Native; |
 |Java;       | Ionic;        |
-|Python;     | Flutter.
-|C++.        | JavaScript;
-|React JS;   | Angular;
-|Vue;        | Next.JS.
-|Java;       | Python;
-|JavaScript; | Node.JS;
+|Python;     | Flutter.      |
+|C++.        | JavaScript;   |
+|React JS;   | Angular;      |
+|Vue;        | Next.JS.      |
+|Java;       | Python;       |
+|JavaScript; | Node.JS;      |
 Entre outras.
 
 ## Banco de dados relacionais (Amazon RDS)
