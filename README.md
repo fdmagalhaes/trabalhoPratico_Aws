@@ -1,5 +1,5 @@
 # trabalhoPratico_Aws
- #     Amazon Web Service <p align="center">
+ #   <p>  Amazon Web Service  align="center"
   <img src="https://github.com/fdmagalhaes/trabalhoPratico_Aws/blob/main/Amazon_Web_Services-Logo.wine.png" alt="Texto alternativo da imagem"
   width="300">
 </p>
