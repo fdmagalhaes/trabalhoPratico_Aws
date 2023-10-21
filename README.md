@@ -1,9 +1,9 @@
 # trabalhoPratico_Aws
  #     Amazon Web Service 
- <p align="center"
-  img src="https://github.com/fdmagalhaes/trabalhoPratico_Aws/blob/main/Amazon_Web_Services-Logo.wine.png" alt="Texto alternativo da imagem"
-  width="300">
+<p align="center">
+  <img src="[caminho/para/a/imagem.jpg](https://github.com/fdmagalhaes/trabalhoPratico_Aws/blob/main/Amazon_Web_Services-Logo.wine.png)" alt="Descrição da imagem" width="300">
 </p>
+
 
 O segmento de negócios de maior sucesso na Amazon e gerou em 2022 quase US$ 23 bilhões em operações lucro, a AWS nasceu para suprir a necessidade de infraestrutura da própria Amazon nos anos 2000 para automatizar diversos processos, foi investido em pesquisa e desenvolvimento a partir disso foi criando diversas soluções para os problemas comuns de infraestrutura. Com isso a Amazon percebeu que a venda de recursos computacionais poderia ser um investimento interessante assim a  Amazon Web Services (AWS) foi criada em 2006, "éramos efetivamente uma pequena startup de tecnologia dentro de uma grande multinacional", disse Ariel Kelman, vice-presidente mundial de marketing.
 Diferente de outros players, optou  por oferecer o serviço conforme o uso, ou seja, você paga apenas por aquilo que utilizar e sem a obrigatoriedade de manter contratos longos. Dessa forma, é possível por exemplo, utilizar certos recursos adicionais quando seu site estiver recebendo picos de tráfego, e logo após isso, desativar esses recursos, pagando apenas pelo que foi utilizado. Grandes investimentos em pesquisa e desenvolvimento continua sendo uma das maiores inovadoras do setores como: serviços para Machine Learning, IoT (Internet das Coisas), inteligência artificial e computador sem servidor, mais de 165 serviços completos para os usuários. Também oferecem mais de 40 re pagos cursos exclusivos, que não se encontram em nenhuma outra plataforma. A Nuvem AWS abrange 69 zonas de disponibilidade em 22 regiões geográficas em todo o mundo Ainda dentre as vantagens, possuem uma das maiores comunidades de clientes e parceiros do mundo.
