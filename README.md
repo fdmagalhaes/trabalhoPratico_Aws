@@ -58,3 +58,61 @@ Indicadas para aplicações que irão trabalhar com muitos arquivos armazenados,
 O Amazon RDS (Amazon Relational Databases) é o serviço da AWS que disponibiliza o gerenciamento de base de dados relacionais na plataforma da AWS, focando em escalabilidade e no autogerenciamento. Por meio dele conseguimos automatizar rotinas de administração de banco de dados, provisionamento de hardware e configurações de backup e restore.
 
 Atualmente a AWS conta com esses serviços e mais de 165 é uma das maiores empresas de serviços de cloud do mundo com aproximadamente 50 milhões de páginas hospedadas incluindo de grandes negócios como a netflix, AirBnB 3M entre outros, conhecer mais sobre ela é fundamental para todos no ramo de tecnologia.
+
+## AWS Well-Architected Tool (AWS WA Tool) 
+é um serviço na nuvem que fornece um processo consistente para analisar e medir a arquitetura usando o AWS Well-Architected Framework. Fornece uma estrutura para ajudar os arquitetos de nuvem a desenvolver arquiteturas seguras, resilientes, eficientes e com alta performance. A AWS permite que empresas de todos os tamanhos e setores desenvolvam aplicativos complexos. Os aplicativos da Amazon Web Services abrangem desde programas da Web em hiperescala até aplicativos de análise de big data. 
+
+ ### Pilar Excelência operacional
+O pilar Excelência operacional se concentra na execução e monitoramento sistemas e na melhoria contínua de processos e procedimentos. Os principais tópicos incluem automação de alterações, reação a eventos e definição de padrões para gerenciar as operações diárias.
+
+ ### Pilar Segurança
+O pilar Segurança se concentra na proteção de informações e sistemas. Os principais tópicos incluem confidencialidade e integridade de dados, gerenciamento de permissões de usuário e estabelecimento de controles para detectar eventos de segurança.
+
+ ### Pilar Confiabilidade
+O pilar da confiabilidade se concentra nos workloads que executam as funções pretendidas e na recuperação rápida de falhas em atender demandas. Os principais tópicos incluem projeto de sistemas distribuídos, planejamento de recuperação e requisitos adaptação a mudanças.
+
+ ### Pilar Eficiência de performance
+O pilar de eficiência de performance se concentra na alocação estruturada e simplificada de recursos de TI e computação. Os principais tópicos incluem seleção dos tipos e tamanhos certos dos recursos otimizados para os requisitos de workload, monitoramento de performance e manutenção da eficiência à medida que as necessidades comerciais evoluem.
+
+ ### Pilar Otimização de custos
+O pilar de otimização de custos se concentra em evitar custos desnecessários. Os principais tópicos incluem compreensão dos gastos ao longo do tempo e controle da alocação de fundos, seleção do tipo e quantidade certa de recursos e dimensionamento para atender às necessidades de negócios sem gastos excessivos.
+
+ ### Pilar Sustentabilidade
+O pilar de sustentabilidade se concentra em minimizar os impactos ambientais da execução de workloads em nuvem. Os principais tópicos incluem um modelo de responsabilidade compartilhada para sustentabilidade, compreensão do impacto e maximização da utilização para minimizar os recursos necessários e reduzir os impactos posteriores. 
+
+## Framework AWS WA
+Além do Framework e da ferramenta AWS WA, são fornecidas orientações especializadas para vários tipos de aplicações. No Serverless Application Lens, nos concentramos nas práticas recomendadas para arquitetar seu serverless aplicativos na AWS. No Contêiner Build Lens, fornecemos práticas recomendadas independentes da nuvem para criação e gerenciamento contêineres e imagens de contêineres. Além disso, as orientações de implementação e os exemplos são fornecido especificamente para a Nuvem AWS. Na Máquina Lentes de aprendizado, nos concentramos em como projetar, implantar e arquitetar sua máquina cargas de trabalho de aprendizagem na Nuvem AWS. 
+  
+  #### Na análise de dados Lens 
+  descrevemos uma coleção de práticas recomendadas comprovadas pelo cliente para projetar cargas de trabalho de análise bem arquitetadas.
+
+  #### No Híbrido Lente de rede
+nos concentramos em como projetar, implantar e arquitetar híbridos rede para cargas de trabalho na Nuvem AWS.
+
+  #### No IoT Lens e no IoT Lens Lista de verificação
+ nos concentramos nas práticas recomendadas para arquitetar seus aplicativos de IoT em AWS.
+
+  #### No SAP 
+ descrevemos um coleção de princípios de design comprovados pelo cliente e práticas recomendadas para garantir o SAP as cargas de trabalho na AWS são bem arquitetadas.
+
+  #### Nos Jogos Industry 
+nos concentramos em projetar, arquitetar e implantar seus jogos cargas de trabalho na AWS.
+
+  #### No Streaming Media 
+ nós nos concentramos nas melhores práticas para arquitetar e melhorar seu cargas de trabalho de streaming de mídia na AWS.
+
+  #### No Healthcare Industry 
+ nos concentramos em como projetar, implantar e gerenciar seu cargas de trabalho em saúde.
+
+  ####  No Financeiro Serviços Indústria 
+nos concentramos nas melhores práticas para arquitetar seu Cargas de trabalho do setor de serviços financeiros na AWS.
+
+  ####  Na HPC Lens
+nos concentramos nas melhores práticas para arquitetar seu Alto Desempenho Cargas de trabalho de computação (HPC) na AWS.
+
+  #### Na lente SaaS
+ nos concentramos em práticas recomendadas para arquitetar cargas de trabalho de software como serviço (SaaS) na AWS.
+
+  #### No Governo Lens
+nos concentramos nas melhores práticas para projetar e entregar o governo serviços na AWS.
+
