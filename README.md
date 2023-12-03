@@ -14,19 +14,19 @@ Ainda podemos citar alguns serviços e diferenciais da AWS como:
 
 ## Armazenamento (Amazon S3)
 <p align="center">
-  <img src="https://github.com/fdmagalhaes/trabalhoPratico_Aws/blob/main/Amazon_Web_Services-Logo.wine.png" alt="Descrição da imagem" width="300">
+  <img src="https://github.com/fdmagalhaes/trabalhoPratico_Aws/blob/main/S3%20logo.png" alt="Descrição da imagem" width="300">
 </p>
 conhecido também como Amazon Simple Storage Service ou também como S3, é o serviço de armazenamento de dados da AWS
 
 ## Nuvem de Servidores (Amazon EC2)
 <p align="center">
-  <img src="https://github.com/fdmagalhaes/trabalhoPratico_Aws/blob/main/Amazon_Web_Services-Logo.wine.png" alt="Descrição da imagem" width="300">
+  <img src="https://github.com/fdmagalhaes/trabalhoPratico_Aws/blob/main/ec2.png" alt="Descrição da imagem" width="300">
 </p>
 O Amazon EC2, também conhecido por Elastic Compute Cloud, é o serviço de cloud da plataforma que permite a criação e a configuração de servidores virtuais, podemos escolher entre Windows e Linux
 
 ## Banco de dados relacionais (Amazon RDS)
 <p align="center">
-  <img src="https://github.com/fdmagalhaes/trabalhoPratico_Aws/blob/main/Amazon_Web_Services-Logo.wine.png" alt="Descrição da imagem" width="300">
+  <img src="https://github.com/fdmagalhaes/trabalhoPratico_Aws/blob/main/rds%20.png" alt="Descrição da imagem" width="300">
 </p>
 O Amazon RDS (Amazon Relational Databases) é o serviço da AWS que disponibiliza o gerenciamento de base de dados relacionais na plataforma da AWS, focando em escalabilidade e no autogerenciamento. Por meio dele conseguimos automatizar rotinas de administração de banco de dados, provisionamento de hardware e configurações de backup e restore.
 
@@ -70,7 +70,7 @@ Indicadas para aplicações que irão trabalhar com muitos arquivos armazenados,
 
   # Arquitetura da AWS 
   <p align="center">
-  <img src="https://github.com/fdmagalhaes/trabalhoPratico_Aws/blob/main/Amazon_Web_Services-Logo.wine.png" alt="Descrição da imagem" width="300">
+  <img src="https://github.com/fdmagalhaes/trabalhoPratico_Aws/blob/main/Jeff-Bezos.png" alt="Descrição da imagem" width="300">
 </p>
   
 "Em ambientes locais, os clientes muitas vezes têm uma equipe central de arquitetura de tecnologia que atua como uma sobreposição para outras equipes de produtos ou recursos para garantir que estejam seguindo as melhores práticas. As equipes de arquitetura de tecnologia geralmente incluem um conjunto de funções, como arquiteto técnico (infraestrutura), arquiteto de soluções (software), arquiteto de dados, arquiteto de redes e arquiteto de segurança. Geralmente, essas equipem usam o TOGAF ou o Zachman Framework como parte de um recurso de arquitetura corporativa.
