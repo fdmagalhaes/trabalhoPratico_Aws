@@ -69,12 +69,12 @@ Indicadas para aplicações que irão trabalhar com muitos arquivos armazenados,
        Entre outras.        
 
   # Arquitetura da AWS 
-  <p align="center">
-  <img src="https://github.com/fdmagalhaes/trabalhoPratico_Aws/blob/main/Jeff-Bezos.png" alt="Descrição da imagem" width="300">
-</p>
-  
 "Em ambientes locais, os clientes muitas vezes têm uma equipe central de arquitetura de tecnologia que atua como uma sobreposição para outras equipes de produtos ou recursos para garantir que estejam seguindo as melhores práticas. As equipes de arquitetura de tecnologia geralmente incluem um conjunto de funções, como arquiteto técnico (infraestrutura), arquiteto de soluções (software), arquiteto de dados, arquiteto de redes e arquiteto de segurança. Geralmente, essas equipem usam o TOGAF ou o Zachman Framework como parte de um recurso de arquitetura corporativa.
 Na AWS, preferimos distribuir os recursos para as equipes, em vez de termos uma equipe centralizada com esse recurso. Existem riscos quando você opta por distribuir a autoridade para tomada de decisões e garantir, por exemplo, que as equipes atendam aos padrões internos. Atenuamos esses riscos de duas formas. Primeiro, nós temos práticas Formas de fazer coisas, processos, padrões e normas aceitas. que se concentram em permitir que cada equipe tenha essa capacidade, e criamos especialistas que garantem que as equipes elevem os padrões que precisam atender você precisa de bons mecanismos para fazer qualquer coisa acontecer" Jeff Bezos
+
+<p align="center">
+  <img src="https://github.com/fdmagalhaes/trabalhoPratico_Aws/blob/main/Jeff-Bezos.png" alt="Descrição da imagem" width="300">
+</p>
 
 Começamos com o cliente e o que ele quer, e deixamos isso definir e orientar nossos esforços. do cliente. As equipes dedicadas ao cliente criam produtos em resposta a uma necessidade do cliente. Isso significa substituir os melhores esforços humanos por mecanismos (geralmente automatizados) que verificam a conformidade em relação a regras ou processos. que realizam verificações automatizadas para garantir que os padrões sejam atendidos. Essa abordagem distribuída é embasada pelos princípios de liderança da Amazon e estabelece uma cultura em todas as funções que retornam Trabalhar de trás para a frente é uma parte fundamental do nosso processo de inovação.
 
