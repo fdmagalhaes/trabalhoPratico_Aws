@@ -18,12 +18,6 @@ Ainda podemos citar alguns serviços e diferenciais da AWS como:
 </p>
 conhecido também como Amazon Simple Storage Service ou também como S3, é o serviço de armazenamento de dados da AWS
 
-## Nuvem de Servidores (Amazon EC2)
-<p align="center">
-  <img src="https://github.com/fdmagalhaes/trabalhoPratico_Aws/blob/main/ec2.png" alt="Descrição da imagem" width="300">
-</p>
-O Amazon EC2, também conhecido por Elastic Compute Cloud, é o serviço de cloud da plataforma que permite a criação e a configuração de servidores virtuais, podemos escolher entre Windows e Linux
-
 ## Banco de dados relacionais (Amazon RDS)
 <p align="center">
   <img src="https://github.com/fdmagalhaes/trabalhoPratico_Aws/blob/main/rds%20.png" alt="Descrição da imagem" width="300">
@@ -31,6 +25,12 @@ O Amazon EC2, também conhecido por Elastic Compute Cloud, é o serviço de clou
 O Amazon RDS (Amazon Relational Databases) é o serviço da AWS que disponibiliza o gerenciamento de base de dados relacionais na plataforma da AWS, focando em escalabilidade e no autogerenciamento. Por meio dele conseguimos automatizar rotinas de administração de banco de dados, provisionamento de hardware e configurações de backup e restore.
 
 Atualmente a AWS conta com esses serviços e mais de 165 é uma das maiores empresas de serviços de cloud do mundo com aproximadamente 50 milhões de páginas hospedadas incluindo de grandes negócios como a netflix, AirBnB 3M entre outros, conhecer mais sobre ela é fundamental para todos no ramo de tecnologia.
+
+## Nuvem de Servidores (Amazon EC2)
+<p align="center">
+  <img src="https://github.com/fdmagalhaes/trabalhoPratico_Aws/blob/main/ec2.png" alt="Descrição da imagem" width="300">
+</p>
+O Amazon EC2, também conhecido por Elastic Compute Cloud, é o serviço de cloud da plataforma que permite a criação e a configuração de servidores virtuais, podemos escolher entre Windows e Linux
 
 ## Arquitetura 
 A AWS consegue entregar um ambiente de alta disponibilidade utilizando o Elastic Load Balancing, que faz uma redistribuição automática de tráfego e cargas de trabalhos entre vários destinos, como instâncias do EC2, containers e endereços IP em uma ou mais zonas de disponibilidade.
