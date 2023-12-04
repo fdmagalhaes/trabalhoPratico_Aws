@@ -140,3 +140,12 @@ Nos concentramos em práticas recomendadas para arquitetar cargas de trabalho de
 
   #### No Governo Lens
 Nos concentramos nas melhores práticas para projetar e entregar o governo serviços na AWS.
+
+
+
+# Referencias 
+Sobre arquitetura - AWS Well-Architected Framework. Disponível em: <https://wa.aws.amazon.com/wat.onarchitecture.wa-onarch.pt_BR.html#:~:text=Geralmente%2C%20essas%20equipem%20usam%20o,equipe%20centralizada%20com%20esse%20recurso.>. Acesso em: 4 dez. 2023.
+
+O poder do AWS Amazon Connect - Amazon Connect. Disponível em: <https://docs.aws.amazon.com/pt_br/connect/latest/adminguide/related-services-amazon-connect.html>. Acesso em: 4 dez. 2023.
+
+Let’s Architect! Leveraging SQL databases on AWS | Amazon Web Services. Disponível em: <https://aws.amazon.com/pt/blogs/architecture/lets-architect-leveraging-sql-databases-on-aws/>. Acesso em: 4 dez. 2023.
