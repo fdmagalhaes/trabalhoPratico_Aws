@@ -106,7 +106,7 @@ Evitar gastos desnecessários. Envolve compreensão e controle de gastos, seleç
 Minimizar impactos ambientais de workloads em nuvem. Inclui responsabilidade compartilhada, compreensão de impactos e maximização de utilização.
 
  ## Framework AWS WA
-Além do Framework e da ferramenta AWS WA, são fornecidas orientações especializadas para vários tipos de aplicações. No Serverless Application Lens, nos concentramos nas práticas recomendadas para arquitetar seu serverless aplicativos na AWS. No Contêiner Build Lens, fornecemos práticas recomendadas independentes da nuvem para criação e gerenciamento contêineres e imagens de contêineres. Além disso, as orientações de implementação e os exemplos são fornecido especificamente para a Nuvem AWS. Na Máquina Lentes de aprendizado, nos concentramos em como projetar, implantar e arquitetar sua máquina cargas de trabalho de aprendizagem na Nuvem AWS. 
+Além do Framework e da ferramenta AWS WA, são fornecidas orientações especializadas para vários tipos de aplicações. No Serverless Application Lens, Concentra nas práticas recomendadas para arquitetar seu serverless aplicativos na AWS. No Contêiner Build Lens, e fornecido as práticas recomendadas independentes da nuvem para criação e gerenciamento contêineres e imagens de contêineres. Além disso, as orientações de implementação e os exemplos são fornecido especificamente para a Nuvem AWS.
   
   #### Na análise de dados Lens 
 Descrevemos uma coleção de práticas recomendadas comprovadas pelo cliente para projetar cargas de trabalho de análise bem arquitetadas.
