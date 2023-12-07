@@ -85,25 +85,25 @@ As melhores práticas da AWS são baseadas na experiência da empresa na execuç
 A abordagem de propriedade distribuída de arquitetura por uma comunidade de engenheiros-chefes permite que uma arquitetura corporativa do Well-Architected surja, impulsionada pela necessidade do cliente. Líderes de tecnologia realizando análises do Well-Architected em suas cargas de trabalho obtêm uma compreensão dos riscos em seu portfólio tecnológico. Essa abordagem facilita a identificação de temas comuns entre as equipes, que podem ser abordados por meio de mecanismos, treinamentos ou palestras, onde engenheiros-chefes compartilham suas ideias sobre áreas específicas.
 
 ## AWS Well-Architected Tool (AWS WA Tool) 
-É um serviço na nuvem que fornece um processo consistente para analisar e medir a arquitetura usando o AWS Well-Architected Framework. Fornece uma estrutura para ajudar os arquitetos de nuvem a desenvolver arquiteturas seguras, resilientes, eficientes e com alta performance. A AWS permite que empresas de todos os tamanhos e setores desenvolvam aplicativos complexos. Os aplicativos da Amazon Web Services abrangem desde programas da Web em hiperescala até aplicativos de análise de big data. 
+A AWS Well-Architected auxilia arquitetos de nuvem a criar infraestruturas seguras, resilientes, eficientes e de alto desempenho, com seis pilares fundamentais. O framework oferece uma abordagem para avaliação e implementação de arquiteturas escaláveis, incluindo a ferramenta AWS Well-Architected para análises regulares e melhorias. Além disso, a AWS disponibiliza um ecossistema de parceiros para suporte e revisão de aplicações.
 
  ### Pilar Excelência operacional
-O pilar Excelência operacional se concentra na execução e monitoramento sistemas e na melhoria contínua de processos e procedimentos. Os principais tópicos incluem automação de alterações, reação a eventos e definição de padrões para gerenciar as operações diárias.
+Foco na execução e monitoramento de sistemas para melhoria contínua. Inclui automação, reação a eventos e padrões operacionais.
 
  ### Pilar Segurança
-O pilar Segurança se concentra na proteção de informações e sistemas. Os principais tópicos incluem confidencialidade e integridade de dados, gerenciamento de permissões de usuário e estabelecimento de controles para detectar eventos de segurança.
+Proteção de informações e sistemas. Abrange confidencialidade, integridade de dados, gerenciamento de permissões e detecção de eventos de segurança.
 
  ### Pilar Confiabilidade
-O pilar da confiabilidade se concentra nos workloads que executam as funções pretendidas e na recuperação rápida de falhas em atender demandas. Os principais tópicos incluem projeto de sistemas distribuídos, planejamento de recuperação e requisitos adaptação a mudanças.
+Garantia de que workloads executem suas funções e se recuperem rapidamente de falhas. Envolve design de sistemas distribuídos e planejamento de recuperação.
 
  ### Pilar Eficiência de performance
-O pilar de eficiência de performance se concentra na alocação estruturada e simplificada de recursos de TI e computação. Os principais tópicos incluem seleção dos tipos e tamanhos certos dos recursos otimizados para os requisitos de workload, monitoramento de performance e manutenção da eficiência à medida que as necessidades comerciais evoluem.
+Uso estratégico de recursos de TI. Inclui seleção de recursos, monitoramento de performance e manutenção da eficiência.
 
  ### Pilar Otimização de custos
-O pilar de otimização de custos se concentra em evitar custos desnecessários. Os principais tópicos incluem compreensão dos gastos ao longo do tempo e controle da alocação de fundos, seleção do tipo e quantidade certa de recursos e dimensionamento para atender às necessidades de negócios sem gastos excessivos.
+Evitar gastos desnecessários. Envolve compreensão e controle de gastos, seleção de recursos e dimensionamento adequado.
 
  ### Pilar Sustentabilidade
-O pilar de sustentabilidade se concentra em minimizar os impactos ambientais da execução de workloads em nuvem. Os principais tópicos incluem um modelo de responsabilidade compartilhada para sustentabilidade, compreensão do impacto e maximização da utilização para minimizar os recursos necessários e reduzir os impactos posteriores. 
+Minimizar impactos ambientais de workloads em nuvem. Inclui responsabilidade compartilhada, compreensão de impactos e maximização de utilização.
 
  ## Framework AWS WA
 Além do Framework e da ferramenta AWS WA, são fornecidas orientações especializadas para vários tipos de aplicações. No Serverless Application Lens, nos concentramos nas práticas recomendadas para arquitetar seu serverless aplicativos na AWS. No Contêiner Build Lens, fornecemos práticas recomendadas independentes da nuvem para criação e gerenciamento contêineres e imagens de contêineres. Além disso, as orientações de implementação e os exemplos são fornecido especificamente para a Nuvem AWS. Na Máquina Lentes de aprendizado, nos concentramos em como projetar, implantar e arquitetar sua máquina cargas de trabalho de aprendizagem na Nuvem AWS. 
@@ -144,8 +144,12 @@ Nos concentramos nas melhores práticas para projetar e entregar o governo servi
 
 
 # Referencias 
-Sobre arquitetura - AWS Well-Architected Framework. Disponível em: <https://wa.aws.amazon.com/wat.onarchitecture.wa-onarch.pt_BR.html#:~:text=Geralmente%2C%20essas%20equipem%20usam%20o,equipe%20centralizada%20com%20esse%20recurso.>. Acesso em: 4 dez. 2023.
+Sobre arquitetura - AWS Well-Architected Framework. Disponível em: <https://wa.aws.amazon.com/wat.onarchitecture.wa-onarch.pt_BR.html#:~:text=Geralmente%2C%20essas%20equipem%20usam%20o,equipe%20centralizada%20com%20esse%20recurso.>. Acesso em: 3 dez. 2023.
 
-O poder do AWS Amazon Connect - Amazon Connect. Disponível em: <https://docs.aws.amazon.com/pt_br/connect/latest/adminguide/related-services-amazon-connect.html>. Acesso em: 4 dez. 2023.
+O poder do AWS Amazon Connect - Amazon Connect. Disponível em: <https://docs.aws.amazon.com/pt_br/connect/latest/adminguide/related-services-amazon-connect.html>. Acesso em: 3 dez. 2023.
 
-Let’s Architect! Leveraging SQL databases on AWS | Amazon Web Services. Disponível em: <https://aws.amazon.com/pt/blogs/architecture/lets-architect-leveraging-sql-databases-on-aws/>. Acesso em: 4 dez. 2023.
+Let’s Architect! Leveraging SQL databases on AWS | Amazon Web Services. Disponível em: <https://aws.amazon.com/pt/blogs/architecture/lets-architect-leveraging-sql-databases-on-aws/>. Acesso em: 3 dez. 2023.
+
+Reliance Steel and Aluminum Uses AWS Well-Architected Framework to Build Better in the Cloud (A Reliance Steel and Aluminium usa o AWS Well-Architected Framework para se desenvolver melhor na nuvem) (4:02). Disponível em: <https://aws.amazon.com/pt/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc>. Acesso em: 3 dez. 2023.
+
+‌
